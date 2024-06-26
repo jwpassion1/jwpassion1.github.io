@@ -38,5 +38,3 @@
 - 제37회 한국정보올림피아드 1차 대회 고등부 일반고부문 은상   
 - 선린인터넷고등학교 프로그래밍 경시대회 은상
    
-<p><$\color{#5ad7b7}set\ text\ color$</p>
-<p>$\textcolor{#5ad7b7}set\ text\ color$</p>
