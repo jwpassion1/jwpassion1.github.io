@@ -8,8 +8,7 @@
 - Codeforces : [TCL](https://codeforces.com/profile/TCL) 레이팅 1881   
 - AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1) 레이팅 1644   
 - Topcoder : [jwpassion1](https://profiles.topcoder.com/jwpassion1/stats/Competitive%20Programming/SRM) 레이팅 1445   
-   
-- mail : ujwhappy@naver.com
+- mail : ujwhappy@naver.com   
    
    
 ## 경력   
