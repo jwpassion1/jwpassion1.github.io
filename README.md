@@ -1,6 +1,39 @@
-jwpassion1 
-=============
-프로필
--------------
-*경희대학교 소프트웨어융합학과 재학중   
-<span style="color:red">*Baekjoon Online Judge : [jwpassion1](https://www.acmicpc.net/user/jwpassion1)</span>
+# jwpassion1   
+   
+## 프로필   
+   
+- 경희대학교 소프트웨어융합학과 재학중   
+- Baekjoon Online Judge : [jwpassion1](https://www.acmicpc.net/user/jwpassion1) 1360문제 해결   
+- solved.ac : [jwpassion1](https://solved.ac/profile/jwpassion1) 레이팅 2685   
+- Codeforces : [TCL](https://codeforces.com/profile/TCL) 레이팅 1881   
+- AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1) 레이팅 1644   
+- Topcoder : [jwpassion1](https://profiles.topcoder.com/jwpassion1/stats/Competitive%20Programming/SRM) 레이팅 1445   
+   
+   
+## 경력   
+### 2022년   
+- 제7회 국민대학교 알고리즘 대회 대상   
+- 제39회 한국정보올림피아드 2차 대회 고등부 동상   
+- 제39회 한국정보올림피아드 1차 대회 고등부 전체응시자부문 은상   
+- 제39회 한국정보올림피아드 1차 대회 고등부 일반고부문 은상   
+- Asia-Pacific Informatics Olympiad 2022  246위/한국 17위   
+- Reply Code Challenge 2022 Teen edition 4위/한국 1위/4인팀 (팀명 : NoReply Team)   
+- 국제정보올림피아드 제31기 겨울학교 처음반 수료   
+   
+### 2021년   
+- 제6회 넥슨 청소년 프로그래밍 챌린지 1519부문 동상   
+- 선린인터넷고등학교 정보 알고리즘 경시대회 은상   
+- 선린인터넷고등학교 알고리즘 페스티벌 금상/3인팀 (팀명 : https://youtu.be/iD5ZCHjI5CU)   
+- 제6회 국민대학교 알고리즘 대회 은상   
+- 제38회 한국정보올림피아드 2차 대회 고등부 동상   
+- 국제정보올림피아드 제30기 여름학교 처음반 수료   
+- 제38회 한국정보올림피아드 1차 대회 고등부 전체응시자부문 은상   
+- 제38회 한국정보올림피아드 1차 대회 고등부 일반고부문 은상   
+   
+### 2020년   
+- 선린인터넷고등학교 알고리즘 페스티벌 은상/3인팀   
+- 제37회 한국정보올림피아드 2차 대회 고등부 장려상   
+- 제37회 한국정보올림피아드 1차 대회 고등부 전체응시자부문 동상   
+- 제37회 한국정보올림피아드 1차 대회 고등부 일반고부문 은상   
+- 선린인터넷고등학교 프로그래밍 경시대회 은상
+   
