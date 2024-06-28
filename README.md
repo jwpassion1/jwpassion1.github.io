@@ -5,10 +5,10 @@
 - 경희대학교 소프트웨어융합학과 재학중   
 - Baekjoon Online Judge : [jwpassion1](https://www.acmicpc.net/user/jwpassion1)  1377문제 해결   
 - solved.ac : [jwpassion1](https://solved.ac/profile/jwpassion1)  2658(Diamond I)   
-- Codeforces : [TCL](https://codeforces.com/profile/TCL)  1881(expert) / max.1881(expert)   
-- AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1)  1644(2 Kyu) / 1644(2 Kyu)   
+- Codeforces : [TCL](https://codeforces.com/profile/TCL)  1762(expert) / max.1881(expert)   
+- AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1)  1644(2 Kyu) / max.1644(2 Kyu)   
 - Topcoder : [jwpassion1](https://profiles.topcoder.com/jwpassion1/stats/Competitive%20Programming/SRM)  1445(blue) / max.1445(blue)   
-- LeetCode : [jwpassion1](https://leetcode.com/u/jwpassion1/)
+- LeetCode : [jwpassion1](https://leetcode.com/u/jwpassion1/)  1758   
 - CodeChef : [jwpassion1](https://www.codechef.com/users/jwpassion1)  1512(2-stars) / max.1512(2-stars)   
 - mail : ujwhappy@naver.com   
    
