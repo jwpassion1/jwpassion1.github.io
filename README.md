@@ -9,7 +9,7 @@
 - AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1)  1644 / max.1644(2 Kyu)   
 - Topcoder : [jwpassion1](https://profiles.topcoder.com/jwpassion1/stats/Competitive%20Programming/SRM)  1445(blue) / max.1445(blue)   
 - CodeChef : [jwpassion1](https://www.codechef.com/users/jwpassion1)  1897(4-stars) / max.1897(4-stars)   
-- LeetCode : [jwpassion1](https://leetcode.com/u/jwpassion1/)  1758 / max.1758   
+- LeetCode : [jwpassion1](https://leetcode.com/u/jwpassion1/)  1919 / max.1919   
 - GitHub : [jwpassion1](https://github.com/jwpassion1)   
 - mail : ujwhappy@naver.com   
    
