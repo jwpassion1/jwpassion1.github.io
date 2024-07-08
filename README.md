@@ -3,9 +3,9 @@
 ## 프로필   
    
 - 경희대학교 소프트웨어융합학과 재학중   
-- Baekjoon Online Judge : [jwpassion1](https://www.acmicpc.net/user/jwpassion1)  1429문제 해결   
+- Baekjoon Online Judge : [jwpassion1](https://www.acmicpc.net/user/jwpassion1)  1431문제 해결   
 - solved.ac : [jwpassion1](https://solved.ac/profile/jwpassion1)  2658(Diamond I)   
-- Codeforces : [TCL](https://codeforces.com/profile/TCL)  1762(expert) / max.1881(expert)   
+- Codeforces : [TCL](https://codeforces.com/profile/TCL)  1812(expert) / max.1881(expert)   
 - AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1)  1663 / max.1663(2 Kyu)   
 - Topcoder : [jwpassion1](https://profiles.topcoder.com/jwpassion1/stats/Competitive%20Programming/SRM)  1445(blue) / max.1445(blue)   
 - CodeChef : [jwpassion1](https://www.codechef.com/users/jwpassion1)  1897(4-stars) / max.1897(4-stars)   
@@ -29,7 +29,7 @@
 - 선린인터넷고등학교 정보 알고리즘 경시대회 은상   
 - 선린인터넷고등학교 알고리즘 페스티벌 금상/3인팀 (팀명 : https://youtu.be/iD5ZCHjI5CU)   
 - ***<u>제6회 국민대학교 알고리즘 대회 은상</u>***   
-- ***<u>제38회 한국정보올림피아드 2차 대회 고등부</u>***   
+- ***<u>제38회 한국정보올림피아드 2차 대회 고등부 동상</u>***   
 - ***<u>국제정보올림피아드 제30기 여름학교 처음반 수료</u>***   
 - 제38회 한국정보올림피아드 1차 대회 고등부 전체응시자부문 은상   
 - 제38회 한국정보올림피아드 1차 대회 고등부 일반고부문 은상   
