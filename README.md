@@ -3,7 +3,7 @@
 ## 프로필   
    
 - 경희대학교 소프트웨어융합학과 재학중   
-- Baekjoon Online Judge : [jwpassion1](https://www.acmicpc.net/user/jwpassion1)  1478문제 해결   
+- Baekjoon Online Judge : [jwpassion1](https://www.acmicpc.net/user/jwpassion1)  1486문제 해결   
 - solved.ac : [jwpassion1](https://solved.ac/profile/jwpassion1)  2658(Diamond I)   
 - Codeforces : [TCL](https://codeforces.com/profile/TCL)  1989(Candidate Master) / max.1989(Candidate Master)   
 - AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1)  1635 / max.1663(2 Kyu)   
