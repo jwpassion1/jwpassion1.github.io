@@ -14,7 +14,7 @@
 - mail : ujwhappy@naver.com   
    
    
-## 경력   
+## PS 경력   
 ### 2024년   
 - ***<u>엘리스 알고리즘 코드 챌린지 본선 진출</u>***   
 - ***<u>UCPC 2024 예선 28위 (팀명 : 프봉부화이팅) (팀원 : jwpassion1, amsminn, developdh)</u>***   
