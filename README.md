@@ -7,8 +7,8 @@
 - solved.ac : [jwpassion1](https://solved.ac/profile/jwpassion1)  2661(Diamond I)   
 - Codeforces : [TCL](https://codeforces.com/profile/TCL)  2117(Master) / max.2152(Master)   
 - AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1)  1639 / max.1663(2 Kyu)   
-- Topcoder : [jwpassion1](https://profiles.topcoder.com/jwpassion1/stats/Competitive%20Programming/SRM)  1445(blue) / max.1445(blue)   
 - CodeChef : [jwpassion1](https://www.codechef.com/users/jwpassion1)  2342(6-stars) / max.2342(6-stars)   
+- Topcoder : [jwpassion1](https://profiles.topcoder.com/jwpassion1/stats/Competitive%20Programming/SRM)  1445(blue) / max.1445(blue)   
 - LeetCode : [jwpassion1](https://leetcode.com/u/jwpassion1/)  2083 / max.2083   
 - GitHub : [jwpassion1](https://github.com/jwpassion1)   
 - mail : ujwhappy@naver.com   
