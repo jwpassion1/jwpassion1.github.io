@@ -3,10 +3,10 @@
 ## 프로필   
    
 - 경희대학교 소프트웨어융합학과 재학중   
-- Baekjoon Online Judge : [jwpassion1](https://www.acmicpc.net/user/jwpassion1)  1550문제 해결   
+- Baekjoon Online Judge : [jwpassion1](https://www.acmicpc.net/user/jwpassion1)  1551문제 해결   
 - solved.ac : [jwpassion1](https://solved.ac/profile/jwpassion1)  2661(Diamond I)   
 - Codeforces : [TCL](https://codeforces.com/profile/TCL)  2117(Master) / max.2152(Master)   
-- AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1)  1639 / max.1663(2 Kyu)   
+- AtCoder : [jwpassion1](https://atcoder.jp/users/jwpassion1)  1651 / max.1663(2 Kyu)   
 - CodeChef : [jwpassion1](https://www.codechef.com/users/jwpassion1)  2342(6-stars) / max.2342(6-stars)   
 - Topcoder : [jwpassion1](https://profiles.topcoder.com/jwpassion1/stats/Competitive%20Programming/SRM)  1445(blue) / max.1445(blue)   
 - LeetCode : [jwpassion1](https://leetcode.com/u/jwpassion1/)  2083 / max.2083   
@@ -18,7 +18,7 @@
 ### 2024년   
 - 2024 한국항공대학교 프로그래밍 경진대회 일반부 38위   
 - ***<u> UCPC 2024 본선 59위 (팀명 : 프봉부화이팅) (팀원 : jwpassion1, amsminn, developdh)</u>***   
-- ***<u>엘리스 알고리즘 코드 챌린지 본선 진출</u>***   
+- 엘리스 알고리즘 코드 챌린지 본선 진출   
 - UCPC 2024 예선 28위 (팀명 : 프봉부화이팅) (팀원 : jwpassion1, amsminn, developdh)   
 - ***<u>삼성전자 제10회 대학생 프로그래밍 경진대회 2차 예선 진출</u>***   
    
